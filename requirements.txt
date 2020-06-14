@@ -1,0 +1,6 @@
+celery
+Flask
+Flask-Mail
+pylint
+pymongo
+objectpath

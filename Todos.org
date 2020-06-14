@@ -1,0 +1,9 @@
+* TODO
+- [ ]Enable Lite Task for Task Process
+    - [ ] Codify the executiong of Hard Sphere
+    - [ ] Codify the executiong of Soft Sphere
+    - [ ] Codify the executiong of Yukawa
+    - [ ] Execute with API and Celery
+
+
+ 

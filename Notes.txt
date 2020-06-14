@@ -1,0 +1,38 @@
+# JSON Structure Example
+        # {
+        #    "idUsuario: id" Nuevo
+        #    "idApp": 2,
+        #    "idSupplier": 1,
+        #    "volume": 45,
+        #    "cost": null,
+        #    "addressHash": "527abfc0692a00338782",
+        #    "date": "2018-06-26",
+        #    "hourRange": "10:00:00-14:00:00",
+        #    "paymentType": 2
+        # }
+
+JSON Structure for hard sphere program execution
+{
+        "id_user": 0
+        "id_process": 0
+        "frac_vol": 0.5
+}
+
+JSON Structure for soft sphere and yukawa hard_sphere programs execution
+{
+	"id_user":1,
+	"id_process":2,
+	"frac_vol":0.5,
+	"ini_temp":-2	
+}
+
+
+JSON Structure for soft sphere program execution
+{
+        "id_user": 0
+        "id_process": 1
+        "frac_vol": 0.5
+        "ini_temp": -2
+}
+
+
